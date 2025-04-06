@@ -24,6 +24,7 @@ public class StartTest4Main {
                 }
             }
         }, threadName);
+
         thread.start();
     }
 }
